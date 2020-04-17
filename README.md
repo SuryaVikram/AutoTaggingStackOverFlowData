@@ -9,5 +9,8 @@
   - Build model 1 with Logistic Regression and SkLearn Multiclass OnevsRestClassifier
   - Use F1 Score metric for evaluation
   - Build model with deep learning
+    - Use Keras Tokenizer and Pad Sequence to create input sequence
+    - Using Keras models Sequential, Load Model
+    - keras layers Embedding, Dropout, Conv1d, GlobalMaxPool1d, Dense
   - Create a inference Function to test for new data
   
